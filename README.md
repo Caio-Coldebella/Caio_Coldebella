@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Caio/Caio/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/Caio-Coldebella/Caio_Coldebella/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
